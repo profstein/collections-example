@@ -6,7 +6,7 @@ tags: navItem
 
 This is the home page. 
 <ul>
-  {%- for post in collections.sea %}
+  {%- for post in collections.post %}
   <li>
   <a href="{{ post.url }}">
   {{ post.data.title }}
