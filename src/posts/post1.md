@@ -3,6 +3,7 @@ title: Post 1
 layout: post.njk
 tags: [post, sand, breeze, sea, sun]
 author: Author 1
+location: aruba
 ---
 
 This is an example post. The first one.
